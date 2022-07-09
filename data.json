@@ -1,0 +1,134 @@
+{
+  "data": {
+    "name": "Jonathan Macias",
+    "profession": "ASP .NET & React Developer",
+    "address": "Cúcuta, Colombia.",
+    "email": "jthmacias1995@gmail.com",
+    "website": "https://devjm-35bdf.web.app/",
+    "phone": "3155963394",
+    "avatar": "https://media-exp1.licdn.com/dms/image/C4E03AQF08PEnVOlBZQ/profile-displayphoto-shrink_400_400/0/1646414375201?e=1662595200&v=beta&t=KqUOZxvz2tZWegZjT7UaDdSPYOomU2XDVtpFBEwKvKo",
+    "Profile": "Developer with knowledge in C#, Javascript and Java, databases, REST and SOAP Web Services, handling MVC, MVVM, component-oriented, JDBC models, and Frameworks such as .NET, ASP.NET, React, React Native.",
+    "certificate": [
+      {
+        "date": "Jul 2022",
+        "description": "Learn all the concepts and fundamentals necessary to understand the blockchain ecosystem and cryptocurrencies.",
+        "institution": "Platzi",
+        "name": "Digital Economy Course: Bitcoin and Cryptocurrencies"
+      },
+      {
+        "date": "Jul 2021",
+        "description": "Your personal brand is the door to your professional career. Decide how you want to be perceived by recruiters, clients and future allies.",
+        "institution": "Platzi",
+        "name": "Personal Brand"
+      },
+      {
+        "date": "May 2018",
+        "description": "English course.",
+        "institution": "SENA",
+        "name": "Englsih Dot Works 0-9"
+      }
+    ],
+    "Academic": [
+      {
+        "degree": "Systems engineering (SE)",
+        "description": "https://sitio.usanjose.edu.co/",
+        "endDate": "Present",
+        "institution": "Usanjose",
+        "startDate": "Jan 2019"
+      },
+      {
+        "degree": "Technologist in Analysis and Software Development",
+        "description": "https://www.sena.edu.co/",
+        "endDate": "December 2016",
+        "institution": "SENA",
+        "startDate": "Jan 2014"
+      }
+    ],
+    "experience": [
+      {
+        "company": "CS SOFTWARE",
+        "endDate": "Present",
+        "jobDescription": "Development in ASP.NET adn .NET Core, integration and development of API REST and testing and documento of software.",
+        "jobTitle": ".NET Developer",
+        "startDate": "Jul 2021"
+      },
+      {
+        "company": "CS SOFTWARE",
+        "endDate": "Jul 2021",
+        "jobDescription": "Software Installation and Support of Software Accounting Billing and Configuration of equipment, remote, physical networks and printers.",
+        "jobTitle": "Support Technician",
+        "startDate": "Aug 2019"
+      },
+      {
+        "company": "Registraduría Nacional del Estado Civil",
+        "endDate": "Jul 2019",
+        "jobDescription": "Registration and updating of DNIs, Management of governmental software, Customer service and support and Technical support.",
+        "jobTitle": "Supernumerary",
+        "startDate": "Jul 2019"
+      },
+      {
+        "company": "Juzgados Norte de Santander",
+        "endDate": "Dec 2017",
+        "jobDescription": "Software registration and update, Customer Support and Computers and printers maintenance.",
+        "jobTitle": "System Technician",
+        "startDate": "Sep 2017"
+      }
+    ],
+    "skills": [
+      {
+        "name": ".NET",
+        "percentage": "80%"
+      },
+      {
+        "name": "React",
+        "percentage": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "percentage": "80%"
+      },
+      {
+        "name": "PostgreSQL",
+        "percentage": "70%"
+      },
+      {
+        "name": "Solidity",
+        "percentage": "60%"
+      }
+    ],
+    "interest": [
+      "javascript",
+      "develop",
+      "backend",
+      "frontend"
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "percentage": "100%"
+      },
+      {
+        "name": "English",
+        "percentage": "75%"
+      },
+      {
+        "name": "Interested in learning new languages",
+        "percentage": "100%"
+      }
+    ],
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Jonatha82370860"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/elprogramador2021"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jonathan-eduardo-macias-mora-4425661b8/"
+      }
+    ]
+  }
+}
